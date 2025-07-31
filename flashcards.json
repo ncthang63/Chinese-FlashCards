@@ -1,0 +1,128 @@
+[
+    {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "english": "Hello",
+        "vietnamese": "Xin chào"
+    },
+    {
+        "hanzi": "谢谢",
+        "pinyin": "xièxie",
+        "english": "Thank you",
+        "vietnamese": "Cảm ơn"
+    },
+    {
+        "hanzi": "再见",
+        "pinyin": "zàijiàn",
+        "english": "Goodbye",
+        "vietnamese": "Tạm biệt"
+    },
+    {
+        "hanzi": "对不起",
+        "pinyin": "duìbùqǐ",
+        "english": "Sorry",
+        "vietnamese": "Xin lỗi"
+    },
+    {
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "english": "Please",
+        "vietnamese": "Làm ơn"
+    },
+    {
+        "hanzi": "是的",
+        "pinyin": "shì de",
+        "english": "Yes",
+        "vietnamese": "Vâng"
+    },
+    {
+        "hanzi": "不是",
+        "pinyin": "bù shì",
+        "english": "No",
+        "vietnamese": "Không"
+    },
+    {
+        "hanzi": "我爱你",
+        "pinyin": "wǒ ài nǐ",
+        "english": "I love you",
+        "vietnamese": "Anh yêu em"
+    },
+    {
+        "hanzi": "早上好",
+        "pinyin": "zǎoshang hǎo",
+        "english": "Good morning",
+        "vietnamese": "Chào buổi sáng"
+    },
+    {
+        "hanzi": "晚上好",
+        "pinyin": "wǎnshàng hǎo",
+        "english": "Good evening",
+        "vietnamese": "Chào buổi tối"
+    },
+    {
+        "hanzi": "晚安",
+        "pinyin": "wǎn'ān",
+        "english": "Good night",
+        "vietnamese": "Chúc ngủ ngon"
+    },
+    {
+        "hanzi": "没关系",
+        "pinyin": "méi guānxi",
+        "english": "It's okay",
+        "vietnamese": "Không sao"
+    },
+    {
+        "hanzi": "请问",
+        "pinyin": "qǐngwèn",
+        "english": "Excuse me",
+        "vietnamese": "Xin hỏi"
+    },
+    {
+        "hanzi": "祝你好运",
+        "pinyin": "zhù nǐ hǎo yùn",
+        "english": "Good luck",
+        "vietnamese": "Chúc may mắn"
+    },
+    {
+        "hanzi": "所有",
+        "pinyin": "suǒyǒu",
+        "english": "all",
+        "vietnamese": "tất cả"
+    },
+    {
+        "hanzi": "地方",
+        "pinyin": "dì fāng",
+        "english": "district; locality",
+        "vietnamese": "khu vực"
+    },
+    {
+        "hanzi": "处理",
+        "pinyin": "chǔ lǐ",
+        "english": "handle; deal with",
+        "vietnamese": "xử lý"
+    },
+    {
+        "hanzi": "性能",
+        "pinyin": "xìng néng",
+        "english": "function",
+        "vietnamese": "tính năng"
+    },
+    {
+        "hanzi": "满意",
+        "pinyin": "mǎn yì",
+        "english": "satisfied; feel pleased",
+        "vietnamese": "hài lòng"
+    },
+    {
+        "hanzi": "可行",
+        "pinyin": "kě xíng",
+        "english": "feasible; practicable; workable",
+        "vietnamese": "khả năng"
+    },
+    {
+        "hanzi": "进展",
+        "pinyin": "jìn zhǎn",
+        "english": "make progress",
+        "vietnamese": "tiến độ, tiến triển"
+    }
+]
